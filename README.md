@@ -1,4 +1,4 @@
-trape (open source)
+TrakingPeople
 ========
 
 People tracker on the Internet: Learn to track the world, to avoid being traced.
@@ -45,7 +45,7 @@ How to use it
 -------
  First unload the tool.
 ```
-git clone https://github.com/boxug/trape.git
+git clone https://github.com/jairandresdiazp/TrakingPeople.git
 cd trape
 python trape.py -h
 ```
@@ -78,32 +78,13 @@ This tool has been published educational purposes in order to teach people how b
 
 We are totally convinced that if we teach how vulnerable things are, we can make the Internet a safer place.
 
-Developers or participants
--------
-The following people are part of the core of development and research in
-Boxug.
-
-This development and others, the participants will be mentioned with name, Twitter and charge.
-
-* Jose Pino - [@jofpin](https://twitter.com/jofpin) - (**CEO at [boxug](https://boxug.com)**) 
-* Jhonathan Espinosa - [@st4nn](https://twitter.com/st4nn) - (**CTO at [boxug](https://boxug.com)**)
-
-Professional Version
--------
-Yes, we also have a professional version with more sophisticated features. If you would like to get the professional version or request contact us at hey@boxug.com
-
-
 Happy hacking!
 -------
 I invite you, if you use this tool helps to share, collaborate. Let's make the Internet a safer place, let's report.
 
 -------------
 
-
 ## License
 
 The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
-
-Copyright, 2017 by [boxug](https://boxug.com) - First Your Security
-
 -------------
