@@ -45,6 +45,10 @@ If it does not work, try to install all the libraries that are located in the fi
 ```
 pip install -r requirements.txt
 ```
+If the deployment is en windows
+```
+python -m pip install -r requirements.txt
+```
 # Example of execution
 ```
 Example: python trape.py --url http://example.com --port 8080
