@@ -2,8 +2,6 @@
 People tracker on the Internet: Learn to track the world, to avoid being traced.
 Trape is a recognition tool that allows you to **track people**, the information you can get is very detailed. We want to teach the world through this, as large Internet companies could monitor you, obtaining information beyond your IP.
 
-![--trape header](https://i.imgur.com/Y0wAPO9.png)
-
 # Some benefits
 * One of its most enticing functions is the remote recognition of sessions. You can know where a person has logged in, remotely. This occurs through a Bypass made to the **Same Origin Policy** (**SOP**)
 * Currently you can try everything from a web interface. (**The console, becomes a preview of the logs and actions**)
