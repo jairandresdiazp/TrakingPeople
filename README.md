@@ -1,15 +1,10 @@
-TrakingPeople
-========
-
+# TrakingPeople
 People tracker on the Internet: Learn to track the world, to avoid being traced.
-
----
 Trape is a recognition tool that allows you to **track people**, the information you can get is very detailed. We want to teach the world through this, as large Internet companies could monitor you, obtaining information beyond your IP.
 
 ![--trape header](https://i.imgur.com/Y0wAPO9.png)
 
-Some benefits
------------
+# Some benefits
 * One of its most enticing functions is the remote recognition of sessions. You can know where a person has logged in, remotely. This occurs through a Bypass made to the **Same Origin Policy** (**SOP**)
 * Currently you can try everything from a web interface. (**The console, becomes a preview of the logs and actions**)
 * Registration of victims, requests among other data are obtained in real time.
@@ -21,7 +16,7 @@ Some benefits
 * Capturing credentials
 * Open Source Intelligence (**OSINT**)
 
-Recognizes the sessions of the following services
+# Recognizes the sessions of the following services
 -------
 * Facebook
 * Twitter
@@ -41,9 +36,8 @@ Recognizes the sessions of the following services
 * Hackernews (*new*)
 * Slack (*new*)
  
-How to use it
--------
- First unload the tool.
+# How to use it
+First unload the tool.
 ```
 git clone https://github.com/jairandresdiazp/TrakingPeople.git
 cd trape
@@ -53,8 +47,7 @@ If it does not work, try to install all the libraries that are located in the fi
 ```
 pip install -r requirements.txt
 ```
-
-Example of execution
+# Example of execution
 ```
 Example: python trape.py --url http://example.com --port 8080
 ```
@@ -64,26 +57,17 @@ Example: python trape.py --url http://example.com --port 8080
 * Do you want to perform phishing attacks? Everything is possible with Trape
 * In the Files directory, located on the path: **/static/files** here you add the files with .exe extension or download files sent to the victim.
 
-Here are some simple videos to use:
--------
+## Here are some simple videos to use:
 **Spanish**: https://www.youtube.com/watch?v=ptyuCQmMKiQ
 
 **English**: https://www.youtube.com/watch?v=FdwyIZhUx3Y
 
 At an international security event in Colombia, called **DragonJAR Security Conference** 2017, a demonstration was made before the launch. You can watch the video here: [https://www.youtube.com/watch?v=vStSEsznxgE](https://www.youtube.com/watch?v=vStSEsznxgE)
 
-Disclaimer
--------
+# Disclaimer
 This tool has been published educational purposes in order to teach people how bad guys could track them or monitor them or obtain information from their credentials, we are not responsible for the use or the scope that may have the People through this project.
 
 We are totally convinced that if we teach how vulnerable things are, we can make the Internet a safer place.
 
-Happy hacking!
--------
-I invite you, if you use this tool helps to share, collaborate. Let's make the Internet a safer place, let's report.
--------------
-
-License
----------
+# License
 The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
--------------
