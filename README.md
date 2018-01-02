@@ -81,7 +81,6 @@ We are totally convinced that if we teach how vulnerable things are, we can make
 Happy hacking!
 -------
 I invite you, if you use this tool helps to share, collaborate. Let's make the Internet a safer place, let's report.
-
 -------------
 
 License
